@@ -1,6 +1,6 @@
 # Feedback API
 
-## URL: `https://api.kitek-pg.ru/api/feedback/messages`
+## URL: `https://api.kitek-pg.ru/api/feedback`
 
 ## **Аутентификация**
 
